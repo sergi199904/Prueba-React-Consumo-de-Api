@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Prueba-React-Consumo-de-Api/static/css/main.91f15e2c.css",
+    "main.js": "/Prueba-React-Consumo-de-Api/static/js/main.a4cf6ece.js",
+    "index.html": "/Prueba-React-Consumo-de-Api/index.html",
+    "main.91f15e2c.css.map": "/Prueba-React-Consumo-de-Api/static/css/main.91f15e2c.css.map",
+    "main.a4cf6ece.js.map": "/Prueba-React-Consumo-de-Api/static/js/main.a4cf6ece.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91f15e2c.css",
+    "static/js/main.a4cf6ece.js"
+  ]
+}
